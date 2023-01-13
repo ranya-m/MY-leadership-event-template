@@ -1,0 +1,13 @@
+.bicolorTitle {
+   display:flex;
+   column-gap: 10px;
+   text-transform: capitalize;
+   font-weight: 500;
+   height: 10px;
+}
+
+
+.textBlue {
+   color: #0DCAF0;
+   text-decoration: underline;
+}
