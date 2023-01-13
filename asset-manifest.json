@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MY-leadership-event-template/static/css/main.0d621056.css",
+    "main.js": "/MY-leadership-event-template/static/js/main.3c4a92ad.js",
+    "static/media/pexelsVideo.mp4": "/MY-leadership-event-template/static/media/pexelsVideo.506dd10187244d45a9f2.mp4",
+    "static/media/pexels1.jpg": "/MY-leadership-event-template/static/media/pexels1.e2eb66aaedace539d879.jpg",
+    "static/media/pexels3.jpg": "/MY-leadership-event-template/static/media/pexels3.2f26d820ded29f047aac.jpg",
+    "static/media/img5.jpg": "/MY-leadership-event-template/static/media/img5.ecd3189964d521644362.jpg",
+    "static/media/img2.jpg": "/MY-leadership-event-template/static/media/img2.6ca6ca35e2f6daf85f0d.jpg",
+    "static/media/ppl4.jpg": "/MY-leadership-event-template/static/media/ppl4.b1c74d612c96b7489db5.jpg",
+    "static/media/img4.jpg": "/MY-leadership-event-template/static/media/img4.a77ffc8d79221f112bb6.jpg",
+    "static/media/img1.jpg": "/MY-leadership-event-template/static/media/img1.d3966257c6a7bdb70339.jpg",
+    "static/media/pexels2.jpg": "/MY-leadership-event-template/static/media/pexels2.cd2e7928326ef26e1742.jpg",
+    "static/media/img3.jpg": "/MY-leadership-event-template/static/media/img3.6e498430a110f16b7f1e.jpg",
+    "static/media/ppl3.jpg": "/MY-leadership-event-template/static/media/ppl3.0877c2d39365b409f934.jpg",
+    "static/media/ppl1.jpeg": "/MY-leadership-event-template/static/media/ppl1.8716f6ee4f72691d161a.jpeg",
+    "static/media/ppl2.jpeg": "/MY-leadership-event-template/static/media/ppl2.738fe21929f38d0a2fb9.jpeg",
+    "index.html": "/MY-leadership-event-template/index.html",
+    "main.0d621056.css.map": "/MY-leadership-event-template/static/css/main.0d621056.css.map",
+    "main.3c4a92ad.js.map": "/MY-leadership-event-template/static/js/main.3c4a92ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d621056.css",
+    "static/js/main.3c4a92ad.js"
+  ]
+}
